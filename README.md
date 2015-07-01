@@ -3,6 +3,6 @@
 
 MarkDownのSublimetext用プラグインとして以下のものを導入
 
-* Monokai Extended
-* Markdown Extended
-* OmniMarkup Previewer
+* Monokai Extended (Markdownのシンタックスハイライト)
+* Markdown Extended (Markdown内のコードのシンタックスハイライト)
+* OmniMarkup Previewer (ブラウザベースのMarkdownプレビュー Ctrl+Alt+O)
